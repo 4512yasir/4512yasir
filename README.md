@@ -41,7 +41,7 @@
 
 ### 🌎 **Find Me Here**
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yasir-mohammed-50bbb7355/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/yasir-mohammed-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
