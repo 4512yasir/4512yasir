@@ -33,7 +33,7 @@
 ### 📌 **Top Projects**
 | Project | Description |
 |---------|-------------|
-| 🚀 [Project Name](https://github.com/your-username/project-name) | Short description of the project |
+| 🚀 [Trackify](https://4512yasir.github.io/Trackify/) | Trackify is a simple and efficient expense tracker that helps you monitor your income and expenses. |
 | 🔥 [Another Project](https://github.com/your-username/another-project) | Short description of the project |
 | 🎨 [Cool UI Design](https://github.com/your-username/ui-project) | A beautiful UI/UX design |
 
@@ -41,8 +41,7 @@
 
 ### 🌎 **Find Me Here**
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/yasir-mohammed-50bbb7355/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
