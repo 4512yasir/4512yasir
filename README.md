@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yasir Mohammed Ahmed
 
-### 💻 Aspiring Full Stack Software Engineer
+###  Full Stack Software Engineer
 
 I’m passionate about building impactful software and constantly learning new technologies.
 
